@@ -49,7 +49,7 @@ span {
 @media (max-width: 600px) {
   body {
     height: 100vh;
-    background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
+    background: linear-gradient(135deg, #8FAADC 0%, #6cad95 100%);
   }
 
   #content {
@@ -64,3 +64,7 @@ span {
     font-size: 1.5em;
   }
 }
+
+git add .
+git commit -m "Add new style"
+git push
